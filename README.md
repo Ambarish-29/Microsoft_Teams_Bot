@@ -2,8 +2,6 @@
 
 This repository demonstrates the integration of Large Language Models (LLMs) with Microsoft Teams to build an intelligent virtual assistant. The bot is designed to answer employee queries about company policies, reducing the dependency on HR personnel or team leads.
 
-![image](https://github.com/user-attachments/assets/3b44ea74-7729-4566-b79d-c94f6bc17b56)
-
 
 ![image](https://github.com/user-attachments/assets/a7717edb-1ad4-4672-83bb-c272400cbc51)
 
