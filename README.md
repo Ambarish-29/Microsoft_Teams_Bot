@@ -93,5 +93,5 @@ Now that the Teams bot integration is complete, you can:
 ENV File should contain the following
 
 - GEMINI_BASE_URL="https://generativelanguage.googleapis.com/v1beta/openai/"
-- GEMINI_API_KEY='<your gemini api key>'
-- SECURITY_TOKEN='<your micrsoft bot token>'
+- GEMINI_API_KEY='your gemini api key'
+- SECURITY_TOKEN='your micrsoft bot token'
